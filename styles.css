@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    font-family: "Roboto";
+    width: 600px;
+    margin: auto; 
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.lefti{
+    display: flex;
+    padding: 10px;
+    
+    
+}
+.logo{font-size: 35px;
+padding-right: 5px;}
+.righti{font-size: 35px;
+    padding: 10px;
+    
+}
+img{
+    width: 100%;
+}
+
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+    font-size: 35px;
+    
+}
+.iright{
+    display: flex;
+    padding: 10px;
+    
+   
+    
+}
+.ileft{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+.post-body{
+    padding: 0px 10px 10px 10px;
+}
+.left-box{
+    margin-right: 5px;
+}
